@@ -1,6 +1,8 @@
 # Opencv-Computer-Vision-Practice-Python-
 Opencv 计算机视觉实战
 
+https://www.bilibili.com/video/BV14A411C7ZE?spm_id_from=333.788.player.switch&vd_source=c7226e858cf8d225328b9f69cab5119c&p=5
+
 &emsp;&emsp;本专栏所有文章都来自网易云课堂[《Opencv计算机视觉实战》](https://study.163.com/course/courseMain.htm?courseId=1208943817&_trace_c_p_k2_=178c2b0aedfe41828e6aa2e8609882f6)的学习笔记。
 
 - [计算机视觉实战 (一) 开个视觉实战专栏](https://mp.weixin.qq.com/s/hblwtPT-oC4Lsew4WUZyug)
